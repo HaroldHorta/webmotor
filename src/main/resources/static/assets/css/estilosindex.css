@@ -1,0 +1,168 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+	font-family: 'Nunito', sans-serif;
+}
+
+.quitarpadding{
+	padding-left: 0;
+	padding-right: 0;
+	margin: 0;
+}
+
+/*CSS de el nav*/
+
+.logo{
+	width:50px;
+    height:50px;
+    border-radius:160px;
+    border:5px solid #666;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+/*Finaliza CSS Nav*/
+
+/*Inicia CSS Carrusel*/
+
+/*.carousel-inner{
+	width: 80%;
+	float: left;
+}
+*/
+.carousel-inner img {
+    width: 100%;
+    height: 580px;
+  }
+
+  .quitarpadding{
+  	padding-right: 0;
+  	padding-left: 0;
+  }
+ 
+	
+.btn{
+	margin-left: 4px;	
+}
+
+.color{
+	color: #fff;
+	margin-left: 4px;		
+	text-align: center;
+	padding: .375rem .75rem;	
+	border-radius: 3px; 
+}
+
+.color:hover{
+	background-color: #17a2b8;
+	color: #fff;	
+}
+
+.boton{
+	background: #cccccc;
+	  border-radius: 0.8em;
+	  -moz-border-radius: 0.8em;
+	  -webkit-border-radius: 0.8em;
+	  color: #fff;
+	  display: inline-block;
+	  font-weight: bold;
+	  line-height: 1.6em;
+	  margin-right: 15px;
+	  text-align: center;
+	  width: 1.6em;
+
+}
+
+a img{
+	width: auto;
+	height: 80px;	
+}
+
+ /*Termina CSS Carrusel*/
+
+ /* Inicia el footer */
+
+.footerespacio{
+	padding-top: 3%;
+		
+}
+.fuentefooter {
+	color: #fff;
+
+}
+
+.fuentefooter a{
+	color: #fff;
+}	
+
+.fuentefooter p{
+	font-size: 16px;
+}
+
+.fuentefooter h3{
+	text-align: center;
+	padding-bottom: 10px;
+	font-weight: 700;	
+}	
+
+
+.footericono{
+	padding-bottom: 5%;
+		
+}
+
+.footericono img{
+	width: 10%;
+	height: 10%;
+	margin-right: 5%;			
+}
+
+.footericono label{
+	font-size: 16px;
+	font-weight: normal;
+}
+
+ /* Termina el footer*/
+
+/* Responsive*/
+
+@media (min-width: 768px){
+	.navbar {
+	    border-radius: 0;
+	}
+}
+
+/*@media screen and (max-width: 767px) {
+		
+
+	.menu ul li{		
+		float: inherit;
+		padding: 20px;	
+	}
+
+	.ingreso a{
+		float: left;
+		width: 100%;		
+		padding: 20px;	
+		color: #fff;	
+	}
+	
+/*	.ingreso,
+	.menu{
+		display: none;
+	}*/
+	
+/*	.icon i{	    		
+		color: #fff;
+	}
+
+	.icon{
+		display: block;
+		padding: auto;
+		margin: auto;
+	}
+}*/
+/*  */
+

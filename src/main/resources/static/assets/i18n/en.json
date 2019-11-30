@@ -1,0 +1,31 @@
+{
+    "ingles.texto":"English",
+    "español.texto":"Spanish",
+    "cerrarsesion.texto":"Sign off",
+    "agregarVehiculo.texto":"add motorcycle",
+    
+    "inicio.texto" : "Home",
+    "registrarse.texto":"Check In",
+    "ingresar.texto":"Login",
+    "buscar.texto":"Search",
+
+    "categoria.texto":"Categories",
+    "aceiteLubicante":"Oil and Lubricants",
+    "kitherramientas":"Tools kit",
+    "baterias":"Batteries",
+    "frenos":"Brakes",
+    "llantas":"Rims",
+    "cilindros":"Cilindros",
+    "filtros":"Cylinders",
+    "kitArrastre":"Drag kit",
+    "kitPiston":"Piston Kit",
+    "cigueñales":"Crankshafts",
+    "cadenillas":"Chains",
+
+    "productos.texto" : "Products",
+    "talleres.texto":"Associated Workshops",
+    "contactenos.texto": "Contact Us",
+    "foro.texto": "Forum",
+    "taller.texto": "Workshop"
+    
+}

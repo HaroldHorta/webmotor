@@ -1,0 +1,30 @@
+{
+    "ingles.texto":"Inglés",
+    "español.texto":"Español",
+    "cerrarsesion.texto":"Cerrar Sesión",
+    "agregarVehiculo.texto":"Agregar Vehículo",
+
+    "inicio.texto" : "Inicio",
+    "registrarse.texto":"Registrarse",
+    "ingresar.texto":"Ingresar",
+    "buscar.texto":"Buscar",
+
+    "categoria.texto":"Categorías",
+    "aceiteLubicante":"Aceite y Lubricantes",
+    "kitherramientas":"Kit de Herramientas",
+    "baterias":"Baterías",
+    "frenos":"Frenos",
+    "llantas":"Llantas",
+    "cilindros":"Cilindros",
+    "filtros":"Filtros",
+    "kitArrastre":"Kit de Arrastre",
+    "kitPiston":"Kit de Pistón",
+    "cigueñales":"Cigueñales",
+    "cadenillas":"Cadenillas",
+
+    "productos.texto" : "Productos",
+    "talleres.texto":"Talleres Asociados",
+    "contactenos.texto": "Contáctenos",
+    "foro.texto": "Foro",
+    "taller.texto": "Taller"
+}
